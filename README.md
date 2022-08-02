@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m Gimena Riveros</h1>
-<h3 align="center"> ~ I am looking for new challenges as a Full Stack Developer ~</h3>
+<h3 align="center"> ~ I'm looking for new challenges as a Full Stack Developer ~</h3>
 <hr> <br>
 
 >    💁🏻‍♀️ I drink coffe and I code things 👩🏻‍💻 
