@@ -1,4 +1,5 @@
-<h1 👋 >Hi, I’m @Gimena-Riveros</h1>
+<h1 style="center"> 👋 Hi, I’m Gimena-Riveros</h1>
+<hr>
 
 -     💁🏻‍♀️ I drink coffe and I code things 👩🏻‍💻 
 
