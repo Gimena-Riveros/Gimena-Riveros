@@ -6,7 +6,8 @@
    <h3 align="center"> ~ I'm looking for new challenges as a Full Stack Developer ~</h3>
    <hr> <br>
 </p>
->    💁🏻‍♀️ I drink coffe and I code things 👩🏻‍💻 
+
+>  💁🏻‍♀️ I drink coffe and I code things 👩🏻‍💻 
 
 >  👀 I’m interested in 3D print, music 🎹 and python 🐍 
 
