@@ -52,7 +52,11 @@
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gimena Riveros's YouTube Channel" height="40" width="40">
   </a>
 </p>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Gimena-Riveros.visitor-badge)
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="GimenaRiveros :: Visitor's Count" /></p>
 <p>
    <h4>follow me...</h4>
    https://codepen.io/gimena-riveros
