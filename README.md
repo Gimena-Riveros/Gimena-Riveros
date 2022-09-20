@@ -17,6 +17,42 @@
 
 >  👾 How to reach me SolutionMaker #9399 🖖 
 
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+  <a href="https://dev.to/">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gimena Riveros's DEV Profile" height="40" width="40">
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gimena Riveros's LinkedIn Profile" height="40" width="40">
+  </a>
+
+  <a href="https://stackoverflow.com/">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Gimena Riveros's Stack Overflow Profile" height="40" width="40">
+  </a>
+
+  <a href="https://stackexchange.com/">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Gimena Riveros's Stack Exchange Profile" height="40" width="40">
+  </a>
+
+  <a href="https://stackshare.io/">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Gimena Riveros's StackShare Profile" height="40" width="40">
+  </a>
+  
+  <a href="https://gitlab.com/AnhellO">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gimena Riveros's GitLab Profile" height="40" width="40">
+  </a>
+  
+  <a href="https://medium.com/">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Gimena Riveros's Medium Profile" height="40" width="40">
+  </a>
+  
+  <a href="https://www.youtube.com/">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gimena Riveros's YouTube Channel" height="40" width="40">
+  </a>
+</p>
+
 <p>
    <h4>follow me...</h4>
    https://codepen.io/gimena-riveros
