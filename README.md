@@ -17,39 +17,55 @@
 
 >  👾 How to reach me SolutionMaker #9399 🖖 
 
+<h2 align="center">SKILLS 👩🏻‍💻</h2>
+<p align="center">
+   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="Python" height="50" width="50">
+   
+   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="50" width="50">
+   
+   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" alt="Java" height="50" width="50">
+    
+   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg" alt="GitHub" height="50" width="50">
+</p>
+
+<hr>
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
   <a href="https://dev.to/">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gimena Riveros's DEV Profile" height="40" width="40">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gimena Riveros's DEV Profile" height="50" width="50">
   </a>
 
   <a href="https://www.linkedin.com/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gimena Riveros's LinkedIn Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gimena Riveros's LinkedIn Profile" height="50" width="50">
   </a>
 
   <a href="https://stackoverflow.com/users/20037931/solution-maker?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Gimena Riveros's Stack Overflow Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Gimena Riveros's Stack Overflow Profile" height="50" width="50">
   </a>
 
   <a href="https://stackexchange.com/">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Gimena Riveros's Stack Exchange Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Gimena Riveros's Stack Exchange Profile" height="50" width="50">
   </a>
 
   <a href="https://stackshare.io/">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Gimena Riveros's StackShare Profile" height="40" width="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Gimena Riveros's StackShare Profile" height="50" width="50">
   </a>
   
   <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gimena Riveros's GitLab Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gimena Riveros's GitLab Profile" height="50" width="50">
   </a>
   
   <a href="https://medium.com/">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Gimena Riveros's Medium Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Gimena Riveros's Medium Profile" height="50" width="50">
+  </a>
+  
+  <a href="https://www.instagram.com/">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-icon.svg" alt="Gimena Riveros's Instagram" height="50" width="50">
   </a>
   
   <a href="https://www.youtube.com/">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gimena Riveros's YouTube Channel" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gimena Riveros's YouTube Channel" height="50" width="50">
   </a>
 </p>
 
