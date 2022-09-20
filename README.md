@@ -28,7 +28,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gimena Riveros's LinkedIn Profile" height="40" width="40">
   </a>
 
-  <a href="https://stackoverflow.com/">
+  <a href="[https://stackoverflow.com/](https://stackoverflow.com/users/20037931/solution-maker?tab=profile)">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Gimena Riveros's Stack Overflow Profile" height="40" width="40">
   </a>
 
