@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h3 align="center">Visitor's count :eyes:</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Gimena-Riveros}/count.svg" alt="GimenaRiveros :: Visitor's Count" /></p>
 <p>
