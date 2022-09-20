@@ -19,13 +19,18 @@
 
 <h2 align="center">SKILLS 👩🏻‍💻</h2>
 <p align="center">
-   <img src="https://www.vectorlogo.zone/logos/preview.html?image=/logos/python/python-icon.svg" alt="Python" height="50" width="50">
+   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" width="50">
    
-   <img src="https://www.vectorlogo.zone/logos/preview.html?image=/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="40" width="40">
+   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="GitHub" height="50" width="50">
    
-   <img src="https://www.vectorlogo.zone/logos/preview.html?image=/logos/java/java-icon.svg" alt="Java" height="50" width="50">
+   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="50" width="50">
+   
+   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50" width="50">
     
-   <img src="https://www.vectorlogo.zone/logos/preview.html?image=/logos/github/github-icon.svg" alt="GitHub" height="50" width="50">
+   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="GitHub" height="50" width="50">
+   
+   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="50" width="50">
+   
 </p>
 
 <hr>
@@ -61,7 +66,7 @@
   </a>
   
   <a href="https://www.instagram.com/">
-    <img src="https://www.vectorlogo.zone/logos/preview.html?image=/logos/instagram/instagram-icon.svg" alt="Gimena Riveros's Instagram" height="50" width="50">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Gimena Riveros's Instagram" height="50" width="50">
   </a>
   
   <a href="https://www.youtube.com/">
