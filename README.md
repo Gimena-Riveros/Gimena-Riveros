@@ -19,15 +19,26 @@
 
 <h2 align="center">SKILLS 👩🏻‍💻</h2>
 <p align="center">
+   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="50" width="50">
+   
+   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" height="50" width="50">
+   
+   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="50" width="50">
+   
+</p>
+
+<p align="center">
    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" width="50">
    
-   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="GitHub" height="50" width="50">
+   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" height="50" width="50">
    
    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="50" width="50">
    
    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50" width="50">
-    
-   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="GitHub" height="50" width="50">
+   
+</p>
+<p align="center">
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="50" width="50">
    
    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="50" width="50">
    
