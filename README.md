@@ -76,7 +76,7 @@
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Gimena Riveros's Medium Profile" height="50" width="50">
   </a>
   
-  <a href="https://www.instagram.com/">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/accounts/login/?next=%2Fgimena.start.up%2F&source=omni_redirect)">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Gimena Riveros's Instagram" height="50" width="50">
   </a>
   
