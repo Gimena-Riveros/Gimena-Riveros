@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img src="https://avatars.githubusercontent.com/u/72352905?v=4" align="center" width="200" style="border-radius:10px" />
+   <img src="https://avatars.githubusercontent.com/u/72352905?v=4" align="center" width="200" border-radius="50%" />
    <h1 align="center">Hey 👋 I’m Gimena Riveros 👩🏻‍💻</h1>
 </p>
 <p>
