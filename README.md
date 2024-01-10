@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img src="AboutMe/photoReadmeGitHubMini.png" align="center" width="200" />
+   <img src="AboutMe/photoReadmeGitHubMini.png" align="center" width="400" />
    <h1 align="center">Hey 👋 I’m Gimena Riveros 👩🏻‍💻</h1>
 </p>
 <p>
