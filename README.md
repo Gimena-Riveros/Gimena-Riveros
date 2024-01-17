@@ -1,5 +1,5 @@
 <p align="center" width="400">
-   <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../main/AboutMe/photoReadmeGitHubMini.png" align="center" width="400" />
+   <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../main/AboutMe/photoReadmeGitHubMini_withoutBkGrN.png" align="center" width="460" />
    <h1 align="center">Hey 👋 I’m Gimena Riveros 👩🏻‍💻</h1>
 </p>
 <p>
