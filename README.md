@@ -1,5 +1,5 @@
 <p align="center" width="400">
-   <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../main/AboutMe/photoReadmeGitHubMini_withoutBkGrN.png" align="center" width="380" />
+   <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../main/AboutMe/photoReadmeGitHubMini_withoutBkGrN.png" align="center" width="320" />
    <h1 align="center">Hey 👋 I’m Gimena Riveros 👩🏻‍💻</h1>
 </p>
 <p>
@@ -9,7 +9,7 @@
 
 >  💁🏻‍♀️ I drink coffe and I code things 👩🏻‍💻 
 
->  👀 I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" rel="noopener noreferrer"> 3D print</a>, music 🎹 and python 🐍 
+>  👀 I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" rel="noopener noreferrer"> 3D print</a> , music 🎹 and python 🐍 
 
 >  🌱 I’m currently learning Full Stack Developer with Back End orientation 
 
@@ -41,8 +41,6 @@
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="50" width="50">
    
    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="50" width="50">
-
-   <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../main/Logos/think-outside-the-box-business.png" alt="printing3D" height="50" width="50">
 </p>
 
 <hr>
