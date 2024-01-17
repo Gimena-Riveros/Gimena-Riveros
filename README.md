@@ -9,7 +9,7 @@
 
 >  💁🏻‍♀️ I drink coffe and I code things 👩🏻‍💻 
 
->  👀 I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" rel="noopener noreferrer"> 3D print</a> , music 🎹 and python 🐍 
+>  👀 I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank"> 3D print</a> , music 🎹 and python 🐍 
 
 >  🌱 I’m currently learning Full Stack Developer with Back End orientation 
 
@@ -91,7 +91,10 @@
 </p>
 <p>
    <h4>follow me...</h4>
-   https://codepen.io/gimena-riveros
+   <a href="https://codepen.io/gimena-riveros">
+       <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../77e1cb1e8906619bdde0403d6ac77afc6a6d254b/Logos/codepen.svg" alt="Gimena Riveros's Codeopen Profile" height="50" width="50" target="_blank">
+   </a>
+   
 </p>
 <!---
 Gimena-Riveros/Gimena-Riveros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
