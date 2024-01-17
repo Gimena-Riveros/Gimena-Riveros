@@ -46,6 +46,7 @@
 <hr>
 <h2 align="center">You can reach me at :alien:</h2>
 
+
 <p align="center">
   <a href="https://dev.to/">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gimena Riveros's DEV Profile" height="50" width="50">
@@ -62,11 +63,14 @@
   <a href="https://stackexchange.com/">
     <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Gimena Riveros's Stack Exchange Profile" height="50" width="50">
   </a>
+  
+</p>
 
-  <a href="https://stackshare.io/">
+<p align="center">
+   <a href="https://stackshare.io/">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Gimena Riveros's StackShare Profile" height="50" width="50">
   </a>
-  
+   
   <a href="https://gitlab.com/AnhellO">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gimena Riveros's GitLab Profile" height="50" width="50">
   </a>
@@ -74,13 +78,20 @@
   <a href="https://medium.com/">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Gimena Riveros's Medium Profile" height="50" width="50">
   </a>
-  
+</p> 
+
+<p align="center">   
+
   <a href="[https://www.instagram.com/](https://www.instagram.com/accounts/login/?next=%2Fgimena.start.up%2F&source=omni_redirect)">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Gimena Riveros's Instagram" height="50" width="50">
   </a>
   
   <a href="https://www.youtube.com/">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gimena Riveros's YouTube Channel" height="50" width="50">
+  </a>
+
+  <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models">
+    <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../8a90f8afcb2369b27e0886d8817ce0a7b0fe178d/Logos/cults-3d.svg" alt="Gimena Riveros's Cults3D Profile" height="50" width="50" target="_blank">
   </a>
 </p>
 
