@@ -14,7 +14,7 @@
    
   💁🏻‍♀️  I drink coffe **and I code things** 👩🏻‍💻 
 
-  👀  I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank"> 3D print</a> , **music** 🎹 and python 🐍 
+  👀  I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="blank"> 3D print</a> , **music** 🎹 and python 🐍 
 
   🌱  I’m currently learning Full Stack Developer **with Back End orientation** 
 
@@ -58,7 +58,7 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gimena Riveros's DEV Profile" height="50" width="50">
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/" target="blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gimena Riveros's LinkedIn Profile" height="50" width="50">
   </a>
 
@@ -88,15 +88,15 @@
 
 <p align="center">   
 
-  <a href="[https://www.instagram.com/](https://www.instagram.com/accounts/login/?next=%2Fgimena.start.up%2F&source=omni_redirect)">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/accounts/login/?next=%2Fgimena.start.up%2F&source=omni_redirect)" target="blank">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Gimena Riveros's Instagram" height="50" width="50">
   </a>
   
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/" target="blank">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gimena Riveros's YouTube Channel" height="50" width="50">
   </a>
 
-  <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models">
+  <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="blank">
     <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../8a90f8afcb2369b27e0886d8817ce0a7b0fe178d/Logos/cults-3d.svg" alt="Gimena Riveros's Cults3D Profile" height="50" width="50" target="_blank">
   </a>
 </p>
@@ -108,7 +108,7 @@
 </p>
 <p>
    <h4>follow me...</h4>
-   <a href="https://codepen.io/gimena-riveros">
+   <a href="https://codepen.io/gimena-riveros" target="blank">
        <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../77e1cb1e8906619bdde0403d6ac77afc6a6d254b/Logos/codepen.svg" alt="Gimena Riveros's Codeopen Profile" height="50" width="50" target="_blank">
    </a>
    
