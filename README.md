@@ -14,7 +14,7 @@
    
   💁🏻‍♀️  I drink coffe **and I code things** 👩🏻‍💻 
 
-  👀  I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="blank"> 3D print</a> , **music** 🎹 and python 🐍 
+  👀  I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" > 3D print</a> , **music** 🎹 and python 🐍 
 
   🌱  I’m currently learning Full Stack Developer **with Back End orientation** 
 
@@ -92,12 +92,12 @@
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Gimena Riveros's Instagram" height="50" width="50">
   </a>
   
-  <a href="https://www.youtube.com/" target="blank">
+  <a href="https://www.youtube.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gimena Riveros's YouTube Channel" height="50" width="50">
   </a>
 
   <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="blank">
-    <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../8a90f8afcb2369b27e0886d8817ce0a7b0fe178d/Logos/cults-3d.svg" alt="Gimena Riveros's Cults3D Profile" height="50" width="50" target="_blank">
+    <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../8a90f8afcb2369b27e0886d8817ce0a7b0fe178d/Logos/cults-3d.svg" alt="Gimena Riveros's Cults3D Profile" height="50" width="50" target="_blank" >
   </a>
 </p>
 
@@ -108,7 +108,7 @@
 </p>
 <p>
    <h4>follow me...</h4>
-   <a href="https://codepen.io/gimena-riveros" target="blank">
+   <a href="https://codepen.io/gimena-riveros" target="_blank" >
        <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../77e1cb1e8906619bdde0403d6ac77afc6a6d254b/Logos/codepen.svg" alt="Gimena Riveros's Codeopen Profile" height="50" width="50" target="_blank">
    </a>
    
