@@ -10,16 +10,17 @@
    <hr> <br>
 </p>
 
->  💁🏻‍♀️ I drink coffe and I code things 👩🏻‍💻 
+<div align="center">
+  💁🏻‍♀️ I drink coffe and I code things 👩🏻‍💻** 
 
->  👀 I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank"> 3D print</a> , music 🎹 and python 🐍 
+  👀 I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank"> 3D print</a> , music 🎹 and python 🐍** 
 
->  🌱 I’m currently learning Full Stack Developer with Back End orientation 
+  🌱 I’m currently learning Full Stack Developer with Back End orientation** 
 
->  💞️ I’m looking to collaborate on new challenges 
+  🔭 I’m looking to collaborate on new challenges**
 
->  👾 How to reach me SolutionMaker #9399 🖖 
-
+  👾 How to reach me SolutionMaker #9399 🖖** 
+</div>
 <h2 align="center">SKILLS 👩🏻‍💻</h2>
 <p align="center">
    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="50" width="50">
