@@ -1,14 +1,14 @@
-<p align="center" width="400">
+<div align="center" >
    <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../main/AboutMe/photoReadmeGitHubMini_withoutBkGrN.png" align="center" width="320" />
    
-</p>
+</div>
 <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=700&color=1ED6A6&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Gimena+Riveros+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=48&duration=4000&pause=700&color=1ED6A6&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Gimena+Riveros+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" width="300" />
 </h1>
-<p>
+<div>
    <h3 align="center"> ~ I'm looking for new challenges as a Full Stack Developer ~</h3>
    <hr> <br>
-</p>
+</div>
 
 <div align="center">
    
@@ -18,12 +18,12 @@
 
   🌱  I’m currently learning Full Stack Developer **with Back End orientation** 
 
-  🔭  I’m looking to collaborate on **new challenges**
+  🔭  I’m looking to collaborate **on new challenges**
 
-  👾  How to reach me **SolutionMaker #9399** 🖖 
+  👾  How to reach me **SolutionMaker** #9399 🖖 
 </div>
 <br> <hr> <br>
-<h2 align="center">LANGUAGES SKILLS 👩🏻‍💻</h2>
+<h2 align="center"> ⚒️ LANGUAGES SKILLS 👩🏻‍💻</h2>
 <div align="center">
    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="50" width="50">
    
@@ -100,15 +100,16 @@
     <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../8a90f8afcb2369b27e0886d8817ce0a7b0fe178d/Logos/cults-3d.svg" alt="Gimena Riveros's Cults3D Profile" height="50" width="50" target="_blank" >
   </a>
 </p>
-
+<div align="center"> 
+   <a href="https://codepen.io/gimena-riveros" target="_blank" >
+       <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../77e1cb1e8906619bdde0403d6ac77afc6a6d254b/Logos/codepen.svg" alt="Gimena Riveros's Codeopen Profile" height="50" width="50" target="_blank">
+   </a>
+</div>
+<hr> <br>
 <h3 align="center">Visitor's count :eyes:</h3>
 <hr>
 <div align="center">
    <img src="https://profile-counter.glitch.me/{Gimena-Riveros}/count.svg" alt="GimenaRiveros :: Visitor's Count" />
-
-   <a href="https://codepen.io/gimena-riveros" target="_blank" >
-       <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../77e1cb1e8906619bdde0403d6ac77afc6a6d254b/Logos/codepen.svg" alt="Gimena Riveros's Codeopen Profile" height="50" width="50" target="_blank">
-   </a>
 </div>
 <br/><br/>
 
@@ -116,7 +117,7 @@
 
 <br/>
 <div align="center">
-   <a href='https://www.buymeacoffee.com/designhouse3d' target='_blank'><img height='256' style='border:0px;height:256px;' src='https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../c02c54550c38608e0bffea514a7ea649a4ab4217/Logos/buymeacoffee.svg' border='0' alt='Buy Me a Coffee at buymeacoffee.com' />
+   <a href='https://www.buymeacoffee.com/designhouse3d' target='_blank'><img height='86' style='border:0px;height:86px;' src='https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../ef92a5e6a6da253fa12a92d5bfb8dcb4c59407c8/Logos/buymeacoffee.svg' border='0' alt='Buy Me a Coffee at buymeacoffee.com' />
    </a>
 </div>
 <!---
