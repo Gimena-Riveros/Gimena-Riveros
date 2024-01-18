@@ -103,16 +103,22 @@
 
 <h3 align="center">Visitor's count :eyes:</h3>
 <hr>
-<p align="center">
+<div align="center">
    <img src="https://profile-counter.glitch.me/{Gimena-Riveros}/count.svg" alt="GimenaRiveros :: Visitor's Count" />
-</p>
-<p>
-   <h4>follow me...</h4>
+
    <a href="https://codepen.io/gimena-riveros" target="_blank" >
        <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../77e1cb1e8906619bdde0403d6ac77afc6a6d254b/Logos/codepen.svg" alt="Gimena Riveros's Codeopen Profile" height="50" width="50" target="_blank">
    </a>
-   
-</p>
+</div>
+<br/><br/>
+
+<hr/>
+
+<br/>
+<div align="center">
+   <a href='https://www.buymeacoffee.com/designhouse3d' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at buymeacoffee.com' />
+   </a>
+</div>
 <!---
 Gimena-Riveros/Gimena-Riveros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
