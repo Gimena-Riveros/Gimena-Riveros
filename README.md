@@ -22,6 +22,7 @@
 
   👾  How to reach me **SolutionMaker #9399** 🖖 
 </div>
+<br> <hr> <br>
 <h2 align="center">LANGUAGES SKILLS 👩🏻‍💻</h2>
 <div align="center">
    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="50" width="50">
