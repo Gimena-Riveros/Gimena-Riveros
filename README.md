@@ -10,20 +10,20 @@
    <hr> <br>
 </div>
 
-<div align="center">
+<div align="center" size="20px">
    
-  👩🏻‍💻  I drink coffe **and I code things**  
+  👩🏻‍💻 &emsp; I drink coffe **and I code things**  
 
-  😏  I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" > 3D print</a> , **music** 🎹 and python 🐍 
+  😏 &emsp; I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" > 3D print</a> , **music** 🎹 and python 🐍 
 
-  🌱  I’m currently learning Full Stack Developer **with Back End orientation** 
+  🌱 &emsp; I’m currently learning Full Stack Developer **with Back End orientation** 
 
-  🔭  I’m looking to collaborate **on new challenges**
+  🔭 &emsp; I’m looking to collaborate **on new challenges**
 
-  👾  How to reach me **SolutionMaker** #9399 🖖 
+  👾 &emsp; How to reach me **SolutionMaker** #9399 &emsp; 🖖 
 </div>
 <br> <hr> <br>
-<h2 align="center"> ⚒️  LANGUAGES SKILLS  ⚒️</h2>
+<h2 align="center"> ⚒️ &emsp; LANGUAGES SKILLS &emsp; ⚒ </h2>
 <br/>
 <div align="center"> 
    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,eclipse,js,stackoverflow,sqlite,regex&perline=7" />
@@ -39,11 +39,8 @@
 
 <br> 
 <hr>
-<h2 align="center">Also follow me on  👀 </h2>
+<h2 align="center">👀 &emsp; Also follow me on &emsp; 👀 </h2>
 <div align="center">
-   <a href="https://dev.to/">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gimena Riveros's DEV Profile" height="50" width="50">
-  </a>
 
   <a href="https://stackoverflow.com/users/20037931/solution-maker?tab=profile">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Gimena Riveros's Stack Overflow Profile" height="50" width="50">
@@ -60,7 +57,7 @@
 
 <!---
 <hr> <br>
-<h3 align="center">Visit count :eyes:</h3>
+<h3 align="center">Visit count    👀</h3>
 <hr>
 <div align="center">
    <img src="https://profile-counter.glitch.me/{Gimena-Riveros}/count.svg" alt="GimenaRiveros :: Visitor's Count" />
