@@ -39,16 +39,14 @@
 <div align="center">
   <h2>🐍 &emsp; My Contributions &emsp; 🐍</h2>
   <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gimena-Riveros/Gimena-Riveros/output/github-contribution-grid-snake.svg" />
- 
-  <br/><br/><br/>
-
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gimena-Riveros/Gimena-Riveros/57f5b5da471d5289bc482a7a09461fa727397840/github-contribution-grid-snake.svg" />
+<br/>
 </div>
 
 
 <br> 
 <hr>
-<h2 align="center">👀 &emsp; Also follow me on &emsp; 👀 </h2>
+<h2 align="center">👀 &emsp; Find me on... &emsp; 👀 </h2>
 <div align="center">
 
   <a href="https://stackoverflow.com/users/20037931/solution-maker?tab=profile">
