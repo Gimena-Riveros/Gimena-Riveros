@@ -39,11 +39,8 @@
 <div align="center">
   <h2>🐍 &emsp; My Contributions &emsp; 🐍</h2>
   <br>
-   ![snake gif](https://github.com/Gimena-Riveros/Gimena-Riveros/blob/output/github-contribution-grid-snake.svg)
-
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gimena-Riveros/Gimena-Riveros/output/github-contribution-grid-snake.svg" />
-  
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gimena-Riveros/Gimena-Riveros/output/github-contribution-grid-snake.svg" />
+ 
   <br/><br/><br/>
 
 </div>
