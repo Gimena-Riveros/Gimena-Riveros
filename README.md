@@ -46,7 +46,7 @@
 
 <br> 
 <hr>
-<h2 align="center">👀 &emsp; Find me on... &emsp; 👀 </h2>
+<h2 align="center">🌍 &emsp; Find me on... &emsp; 🌎 </h2>
 <div align="center">
 
   <a href="https://stackoverflow.com/users/20037931/solution-maker?tab=profile">
