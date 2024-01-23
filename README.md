@@ -6,7 +6,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=38&duration=4000&pause=700&color=1ED6A6&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Gimena+Riveros+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" width="500" />
 </h1>
 <div>
-   <h3 align="center"> ~ I'm looking for new challenges as a Full Stack Developer ~</h3>
+   <h3 align="center"> ~ &emsp; I'm looking for new challenges as a Full Stack Developer &emsp; ~</h3>
    <hr> <br>
 </div>
 
@@ -14,7 +14,7 @@
    
   👩🏻‍💻 &emsp; I drink coffe **and I code things**  
 
-  😏 &emsp; I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" > 3D print</a> , **music** 🎹 and python 🐍 
+  😏 &emsp; I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" > 3D print</a> , **music** 🎹 and python &emsp; 🐍 
 
   🌱 &emsp; I’m currently learning Full Stack Developer **with Back End orientation** 
 
