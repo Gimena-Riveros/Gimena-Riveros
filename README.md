@@ -14,7 +14,7 @@
    
   👩🏻‍💻 &emsp; I drink coffe **and I code things**  
 
-  😏 &emsp; I’m interested in <a href="https://cults3d.com/en/users/DesignHouse3D/3d-models" target="_blank" > 3D print</a> , **music** 🎹 and python &emsp; 🐍 
+  😏 &emsp; I’m interested in <a href="https://instagram.com/design_house_3d?utm_medium=copy_link" target="_blank" > 3D print</a> , **music** 🎹 and python &emsp; 🐍 
 
   🌱 &emsp; I’m currently learning Full Stack Developer **with Back End orientation** 
 
