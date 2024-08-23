@@ -6,7 +6,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=38&duration=4000&pause=700&color=1ED6A6&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Gimena+Riveros+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" width="500" />
 </h1>
 <div>
-   <h3 align="center"> ~ &emsp; I'm looking for new challenges as a Full Stack Developer &emsp; ~</h3>
+   <h3 align="center"> ~ &emsp; I'm looking for new challenges as a Python Developer &emsp; ~</h3>
    <hr> <br>
 </div>
 
