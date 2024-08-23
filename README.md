@@ -16,7 +16,7 @@
 
   😏 &emsp; I’m interested in <a href="https://instagram.com/design_house_3d?utm_medium=copy_link" target="_blank" > 3D print</a> , **music** 🎹 and python &emsp; 🐍 
 
-  🌱 &emsp; I’m currently learning Full Stack Developer **with Back End orientation** 
+  🌱 &emsp; I’m currently learning Python Developer **with Back End orientation** 
 
   🔭 &emsp; I’m looking to collaborate **on new challenges**
 
