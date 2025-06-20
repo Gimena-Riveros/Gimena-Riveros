@@ -26,11 +26,11 @@
 <h2 align="center"> ⚒️ &emsp; LANGUAGES SKILLS &emsp; ⚒ </h2>
 <br/>
 <div align="center"> 
-   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,eclipse,js,stackoverflow,sqlite,regex&perline=7" />
+   <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,html,css,github,figma,md,git,eclipse,js,stackoverflow,sqlite,regex&perline=7" />
    <br>
    <img src="https://skillicons.dev/icons?i=nodejs,python,angular,typescript,postgres,firebase,flask,mongodb,java,django&perline=5" />
    <br>
-   <img src="https://skillicons.dev/icons?i=mysql,c,codepen&perline=3" />
+   <img src="https://skillicons.dev/icons?i=mysql,c,obsidian&perline=3" />
    <br>
    <img src="https://skillicons.dev/icons?i=linux&perline=1" />
    <br>
