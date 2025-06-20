@@ -57,9 +57,6 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gimena Riveros's LinkedIn Profile" height="50" width="50">
   </a>
 
-  <a href="https://codepen.io/gimena-riveros" target="_blank" >
-       <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../77e1cb1e8906619bdde0403d6ac77afc6a6d254b/Logos/codepen.svg" alt="Gimena Riveros's Codeopen Profile" height="50" width="50" target="_blank">
-   </a>
 </div>
 
 <!---
