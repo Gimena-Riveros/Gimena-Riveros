@@ -3,7 +3,7 @@
    
 </div>
 <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=38&duration=4000&pause=700&color=1ED6A6&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Gimena+Riveros+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" width="500" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=38&duration=4000&pause=700&color=1ED6A6&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Gimena+Riveros" width="500" />
 </h1>
 <div>
    <h3 align="center"> ~ &emsp; I'm looking for new challenges as a Python Developer &emsp; ~</h3>
@@ -18,12 +18,11 @@
 
   🌱 &emsp; I’m currently learning Python Developer **with Back End orientation** 
 
-  🔭 &emsp; I’m looking to collaborate **on new challenges**
+  🔭 &emsp; I’m looking to collaborate **on new challenges** &emsp; 🖖 
 
-  👾 &emsp; How to reach me **SolutionMaker** #9399 &emsp; 🖖 
 </div>
 <br> <hr> <br>
-<h2 align="center"> ⚒️ &emsp; LANGUAGES SKILLS &emsp; ⚒ </h2>
+<h2 align="center">  &emsp; SKILLS &emsp; </h2>
 <br/>
 <div align="center"> 
    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,html,css,github,latex,md,git,eclipse,js,stackoverflow,sqlite,regex&perline=7" />
@@ -37,7 +36,7 @@
 </div>
 
 <div align="center">
-  <h2>🐍 &emsp; My Contributions &emsp; 🐍</h2>
+  <h2> &emsp; Contributions &emsp; </h2>
   <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gimena-Riveros/Gimena-Riveros/57f5b5da471d5289bc482a7a09461fa727397840/github-contribution-grid-snake.svg" />
 <br/>
@@ -46,7 +45,7 @@
 
 <br> 
 <hr>
-<h2 align="center">🌍 &emsp; Find me on... &emsp; 🌎 </h2>
+<h2 align="center"> &emsp; Find me on... &emsp; </h2>
 <div align="center">
 
   <a href="https://stackoverflow.com/users/20037931/solution-maker?tab=profile">
@@ -59,15 +58,6 @@
 
 </div>
 
-<!---
-<hr> <br>
-<h3 align="center">Visit count    👀</h3>
-<hr>
-<div align="center">
-   <img src="https://profile-counter.glitch.me/{Gimena-Riveros}/count.svg" alt="GimenaRiveros :: Visitor's Count" />
-</div>
-<br/><br/>
---->
 <hr/>
 
 <br/>
